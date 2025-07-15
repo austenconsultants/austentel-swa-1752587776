@@ -1,0 +1,7 @@
+{
+  "name": "austentel-api",
+  "version": "1.0.0",
+  "description": "Austentel Static Web Apps API",
+  "main": "health.js",
+  "dependencies": {}
+}
